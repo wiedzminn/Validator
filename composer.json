@@ -1,5 +1,5 @@
 {
-	"name": "kdyby/validator",
+	"name": "wiedzminn/validator",
 	"type": "library",
 	"description": "Integration of Symfony/Validator into Nette Framework",
 	"keywords": ["nette", "kdyby", "validation"],
